@@ -1,6 +1,6 @@
 function staircase(n) {
     // Write your code here
-    let symbol = '3'
+    let symbol = '#'
     let inputLine = ''
     let inputPosition = n - 1
 
